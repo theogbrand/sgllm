@@ -1,5 +1,5 @@
 Question 1: $160000+5000+400+3=$
-correct_answers [2]
+AI_Answer: [2]
 chain_of_thought Let's solve this problem step by step:
 
 1. We need to add $160000 + 5000 + 400 + 3
@@ -18,7 +18,7 @@ chain_of_thought Let's solve this problem step by step:
 6. Looking at the given options, we can see that 165403 matches option number 2.
 
 Question 2: In 7.654, which digit is in the tenths place?
-correct_answers [2]
+AI_Answer: [2]
 chain_of_thought To solve this problem, let's break down the number 7.654 and understand the place values:
 
 1. In a decimal number, the digits to the right of the decimal point represent fractional parts.
@@ -37,7 +37,7 @@ Therefore, the digit in the tenths place is 6.
 Looking at the given options, we can see that option number 2 corresponds to the correct answer "6".
 
 Question 3: Which number is the smallest?
-correct_answers [3]
+AI_Answer: [3]
 chain_of_thought To determine which number is the smallest, we need to compare the given decimal numbers:
 
 1. 0.12
@@ -52,7 +52,7 @@ Let's arrange these numbers in ascending order:
 0.102 is the smallest number among the given options. This corresponds to option number 3.
 
 Question 4: Which of the following shows $\frac{1}{3}$ of the figure shaded?
-correct_answers [1]
+AI_Answer: [1]
 chain_of_thought To determine which figure shows 1/3 of the area shaded, we need to analyze each option:
 
 1) This triangle has 1/3 of its area shaded. The shaded part is one of three equal sections.
@@ -63,7 +63,7 @@ chain_of_thought To determine which figure shows 1/3 of the area shaded, we need
 Therefore, option (1) is the only figure that accurately represents 1/3 of the area being shaded.
 
 Question 5: Which two lines are perpendicular to each other?
-correct_answers [2]
+AI_Answer: [2]
 chain_of_thought To determine which two lines are perpendicular to each other, we need to look for lines that intersect at a 90-degree angle. Let's analyze the given figure:
 
 1. Line AB is the top line of the triangle.
@@ -79,7 +79,7 @@ Perpendicular lines form a right angle (90 degrees) when they intersect. Looking
 Therefore, the lines that are perpendicular to each other are AB and DE.
 
 Question 6: Arrange these fractions from the largest to the smallest.
-correct_answers [1]
+AI_Answer: [1]
 chain_of_thought To solve this problem, we need to compare the given fractions and arrange them from largest to smallest. Let's convert all fractions to decimal form for easier comparison:
 
 1. $\frac{9}{8} = 1.125$
@@ -96,7 +96,7 @@ Therefore, the correct answer is option number 1.
 
 Question 7: The circle has centre $O$.
 AOE and COF are straight lines. Which pair of lines shows its radius and diameter?
-correct_answers [2]
+AI_Answer: [2]
 chain_of_thought Let's approach this step-by-step:
 
 1) First, let's recall the definitions:
@@ -120,7 +120,7 @@ Therefore, the correct answer is option 2: AO (radius) and BD (diameter).
 
 Question 8: The plan of a park is shown in the square grid.
 Mandy is in the park. She stands at a location south-east of the statue and west of a bench. In what direction is the shelter from Mandy?
-correct_answers [2]
+AI_Answer: [2]
 chain_of_thought Let's approach this step-by-step:
 
 1. The question states that Mandy is south-east of the statue and west of a bench.
@@ -142,7 +142,7 @@ chain_of_thought Let's approach this step-by-step:
 Therefore, the correct answer is option 2: North-east.
 
 Question 9: A file costs $\$ 3$ more than a pen. The total cost of 5 such files is $\$ y$. Find the cost of a pen.
-correct_answers [3]
+AI_Answer: [3]
 chain_of_thought Let's approach this step-by-step:
 
 1) Let's define variables:
@@ -170,7 +170,7 @@ chain_of_thought Let's approach this step-by-step:
 Therefore, the correct answer is option 3.
 
 Question 10: $\quad \mathrm{ABC}$ is a straight line and $\angle \mathrm{BDA}=\angle \mathrm{CDB}$. Find $\angle A B D$.
-correct_answers [3]
+AI_Answer: [3]
 chain_of_thought Let's approach this step-by-step:
 
 1) First, we note that ABC is a straight line. This means that ∠ABC = 180°.
@@ -202,7 +202,7 @@ chain_of_thought Let's approach this step-by-step:
 9) Looking at the options, 112° corresponds to option 3.
 
 Question 11: In the number line, what is the value represented by A?
-correct_answers [4]
+AI_Answer: [4]
 chain_of_thought To solve this problem, let's analyze the number line:
 
 1. The number line is divided into 6 equal parts between 1/2 and 1 1/2.
@@ -220,7 +220,7 @@ Option 4 (1 3/10) is the closest to the actual value of 1 1/3.
 
 Question 12: Bala used 44 tacks to pin his drawings side by side onto a board as shown.
 How many drawings did he pin altogether?
-correct_answers [3]
+AI_Answer: [3]
 chain_of_thought To solve this problem, let's break it down step by step:
 
 1. First, we need to understand the pattern of how the tacks are used:
@@ -247,7 +247,7 @@ Therefore, Bala pinned 21 drawings altogether.
 
 Question 13: $A B C D$ is a trapezium with $A B$ parallel to $D C$ and $A B=B C=B D$.
 Find $\angle D B C$.
-correct_answers [3]
+AI_Answer: [3]
 chain_of_thought Let's approach this step-by-step:
 
 1) In trapezium ABCD, AB is parallel to DC.
@@ -274,7 +274,7 @@ chain_of_thought Let's approach this step-by-step:
 Therefore, angle DBC is 59°.
 
 Question 14: Tim had 13 more two-dollar notes than five-dollar notes at first. He exchanged $\$ 20$ worth of five-dollar notes for two-dollar notes. How many more two-dollar notes than five-dollar notes did Tim have after the exchange?
-correct_answers [3]
+AI_Answer: [3]
 chain_of_thought Let's solve this problem step by step:
 
 1. Understand the initial situation:
@@ -297,7 +297,7 @@ chain_of_thought Let's solve this problem step by step:
 Therefore, after the exchange, Tim has 27 more two-dollar notes than five-dollar notes.
 
 Question 15: A box contained brown balls and green balls. $40 \%$ of the balls were green. After some yellow balls were added to the box, $26 \%$ of the balls were green. What percentage of the balls in the box were yellow?
-correct_answers [3]
+AI_Answer: [3]
 chain_of_thought Let's approach this step-by-step:
 
 1) Initially, 40% of the balls were green, which means 60% were brown.
