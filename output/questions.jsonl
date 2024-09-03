@@ -45,6 +45,29 @@
             }
           ]
         }
+        {
+            "question_number": 5,
+            "question_text": "ABCD is a square. Find ∠x.",
+            "options": [
+              {
+                "number": 1,
+                "text": "43°"
+              },
+              {
+                "number": 2,
+                "text": "44°"
+              },
+              {
+                "number": 3,
+                "text": "45°"
+              },
+              {
+                "number": 4,
+                "text": "47°"
+              }
+            ],
+            "image_path": "https://cdn.mathpix.com/cropped/2024_09_03_e2d3ee458809490b0c4ag-2.jpg?height=664&width=644&top_left_y=227&top_left_x=1132"
+          }
 {"question_number": 6, "question_text": "What is the duration from 0935 to 1400 ?", "options": [{"option_number": 1, "option_text": "4 h 25 min"}, {"option_number": 2, "option_text": "4 h 35 min"}, {"option_number": 3, "option_text": "5 h 25 min"}, {"option_number": 4, "option_text": "5 h 35 min"}], "latex": null}
 {"question_number": 7, "question_text": "Arrange the fractions from the largest to the smallest: $\\frac{7}{12}, \\frac{3}{7}, \\frac{7}{10}$\n\nLargest $\\quad \\underline{S m a l l e s t}$", "options": [{"option_number": 1, "option_text": "$\\frac{3}{7}, \\frac{7}{10}, \\frac{7}{12}$"}, {"option_number": 2, "option_text": "$\\frac{7}{12}, \\frac{7}{10}, \\frac{3}{7}$"}, {"option_number": 3, "option_text": "$\\frac{7}{10}, \\frac{3}{7}, \\frac{7}{12}$"}, {"option_number": 4, "option_text": "$\\frac{7}{10}, \\frac{7}{12}, \\frac{3}{7}$"}], "latex": null}
 {"question_number": 8, "question_text": "Which of the following is the same as 2 kg 30 g ?", "options": [{"option_number": 1, "option_text": "230 g"}, {"option_number": 2, "option_text": "2030 g"}, {"option_number": 3, "option_text": "2300 g"}, {"option_number": 4, "option_text": "20030 g"}], "latex": null}
