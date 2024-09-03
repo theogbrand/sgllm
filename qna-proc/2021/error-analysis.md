@@ -1,7 +1,10 @@
 ST reported 10/100 for this paper.
 
-Incorrect Answers and Explanations:
-Question 4: Which of the following shows $\frac{1}{3}$ of the figure shaded?
+# P1 Score: 9/20
+
+## Incorrect Answers and Explanations:
+
+### Question 4: Which of the following shows $\frac{1}{3}$ of the figure shaded?
 AI_Answer: [1]
 Answer Key Answer: [4]
 chain_of_thought To determine which figure shows 1/3 of the area shaded, we need to analyze each option:
@@ -13,7 +16,7 @@ chain_of_thought To determine which figure shows 1/3 of the area shaded, we need
 
 Therefore, option (1) is the only figure that accurately represents 1/3 of the area being shaded.
 
-Question 5: Which two lines are perpendicular to each other?
+### Question 5: Which two lines are perpendicular to each other?
 AI_Answer: [2]
 Answer Key Answer: [4]
 chain_of_thought To determine which two lines are perpendicular to each other, we need to look for lines that intersect at a 90-degree angle. Let's analyze the given figure:
@@ -30,7 +33,7 @@ Perpendicular lines form a right angle (90 degrees) when they intersect. Looking
 
 Therefore, the lines that are perpendicular to each other are AB and DE.
 
-Question 7: The circle has centre $O$.
+### Question 7: The circle has centre $O$.
 AOE and COF are straight lines. Which pair of lines shows its radius and diameter?
 AI_Answer: [2]
 Answer Key Answer: [4]
@@ -55,7 +58,7 @@ chain_of_thought Let's approach this step-by-step:
 
 Therefore, the correct answer is option 2: AO (radius) and BD (diameter).
 
-Question 8: The plan of a park is shown in the square grid.
+### Question 8: The plan of a park is shown in the square grid.
 Mandy is in the park. She stands at a location south-east of the statue and west of a bench. In what direction is the shelter from Mandy?
 AI_Answer: [2]
 Answer Key Answer: [4]
@@ -79,7 +82,7 @@ chain_of_thought Let's approach this step-by-step:
 
 Therefore, the correct answer is option 2: North-east.
 
-Question 10: $\quad \mathrm{ABC}$ is a straight line and $\angle \mathrm{BDA}=\angle \mathrm{CDB}$. Find $\angle A B D$.
+### Question 10: $\quad \mathrm{ABC}$ is a straight line and $\angle \mathrm{BDA}=\angle \mathrm{CDB}$. Find $\angle A B D$.
 AI_Answer: [3]
 Answer Key Answer: [2]
 chain_of_thought Let's approach this step-by-step:
@@ -112,7 +115,7 @@ chain_of_thought Let's approach this step-by-step:
 
 9) Looking at the options, 112° corresponds to option 3.
 
-Question 11: In the number line, what is the value represented by A?
+### Question 11: In the number line, what is the value represented by A?
 AI_Answer: [4]
 Answer Key Answer: [3]
 chain_of_thought To solve this problem, let's analyze the number line:
@@ -130,7 +133,7 @@ Now, let's compare this to the given options:
 
 Option 4 (1 3/10) is the closest to the actual value of 1 1/3.
 
-Question 13: $A B C D$ is a trapezium with $A B$ parallel to $D C$ and $A B=B C=B D$.
+### Question 13: $A B C D$ is a trapezium with $A B$ parallel to $D C$ and $A B=B C=B D$.
 Find $\angle D B C$.
 AI_Answer: [3]
 Answer Key Answer: [1]
@@ -160,7 +163,7 @@ chain_of_thought Let's approach this step-by-step:
 
 Therefore, angle DBC is 59°.
 
-Question 14: Tim had 13 more two-dollar notes than five-dollar notes at first. He exchanged $\$ 20$ worth of five-dollar notes for two-dollar notes. How many more two-dollar notes than five-dollar notes did Tim have after the exchange?
+### Question 14: Tim had 13 more two-dollar notes than five-dollar notes at first. He exchanged $\$ 20$ worth of five-dollar notes for two-dollar notes. How many more two-dollar notes than five-dollar notes did Tim have after the exchange?
 AI_Answer: [3]
 Answer Key Answer: [4]
 
