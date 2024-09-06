@@ -10,7 +10,7 @@ Ans: $\qquad$
 18 Find the value of $7 \div 8$. Express your answer as a decimal.
 Ans: $\qquad$
 
-19**change image Squares $P, Q$ and $R$ are each made up of 8 identical triangles.
+19 Squares $P, Q$ and $R$ are each made up of 8 identical triangles.
 ![](https://cdn.mathpix.com/cropped/2024_09_03_fb5431c7c4cbdcb94c29g-1.jpg?height=191&width=186&top_left_y=1772&top_left_x=349)
 Name the squares with a line of symmetry.
 Ans: $\qquad$
